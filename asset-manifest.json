@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vanchurick/goit-react-hw-01/static/css/main.2912c58a.chunk.css",
-    "main.js": "/Vanchurick/goit-react-hw-01/static/js/main.cc8b0cc1.chunk.js",
-    "main.js.map": "/Vanchurick/goit-react-hw-01/static/js/main.cc8b0cc1.chunk.js.map",
-    "runtime~main.js": "/Vanchurick/goit-react-hw-01/static/js/runtime~main.a713cdcc.js",
-    "runtime~main.js.map": "/Vanchurick/goit-react-hw-01/static/js/runtime~main.a713cdcc.js.map",
-    "static/js/2.87c3947d.chunk.js": "/Vanchurick/goit-react-hw-01/static/js/2.87c3947d.chunk.js",
-    "static/js/2.87c3947d.chunk.js.map": "/Vanchurick/goit-react-hw-01/static/js/2.87c3947d.chunk.js.map",
-    "index.html": "/Vanchurick/goit-react-hw-01/index.html",
-    "precache-manifest.e923b5be9036735e44c27dc13fa8addb.js": "/Vanchurick/goit-react-hw-01/precache-manifest.e923b5be9036735e44c27dc13fa8addb.js",
-    "service-worker.js": "/Vanchurick/goit-react-hw-01/service-worker.js",
-    "static/css/main.2912c58a.chunk.css.map": "/Vanchurick/goit-react-hw-01/static/css/main.2912c58a.chunk.css.map"
+    "main.css": "/goit-react-hw-01/static/css/main.2912c58a.chunk.css",
+    "main.js": "/goit-react-hw-01/static/js/main.cc8b0cc1.chunk.js",
+    "main.js.map": "/goit-react-hw-01/static/js/main.cc8b0cc1.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js",
+    "runtime~main.js.map": "/goit-react-hw-01/static/js/runtime~main.bdf556df.js.map",
+    "static/js/2.87c3947d.chunk.js": "/goit-react-hw-01/static/js/2.87c3947d.chunk.js",
+    "static/js/2.87c3947d.chunk.js.map": "/goit-react-hw-01/static/js/2.87c3947d.chunk.js.map",
+    "index.html": "/goit-react-hw-01/index.html",
+    "precache-manifest.af327cb8d821fb59d3ac3310b0f4e3e3.js": "/goit-react-hw-01/precache-manifest.af327cb8d821fb59d3ac3310b0f4e3e3.js",
+    "service-worker.js": "/goit-react-hw-01/service-worker.js",
+    "static/css/main.2912c58a.chunk.css.map": "/goit-react-hw-01/static/css/main.2912c58a.chunk.css.map"
   }
 }
